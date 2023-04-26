@@ -9,7 +9,7 @@ Repositório destinado ao Estágio de Docência referente à disciplina Introdu�
 - **[Python Data Sience Handbook](http://ww12.allitebooks.org/)**
 
 ### Aula 02 - Matplotlib e Seaborn
-- **[Notebok Matplotlib e Seaborn](https://github.com/andressagomes26/ciencias_dados_estagio-docencia/blob/main/Aula%2002%20-%20Matplotlib%20e%20Seaborn/Matplotlib_Seaborn.ipynbb)**
+- **[Notebok Matplotlib e Seaborn](https://github.com/andressagomes26/ciencias_dados_estagio-docencia/blob/main/Aula%2002%20-%20Matplotlib%20e%20Seaborn/Matplotlib_Seaborn.ipynb)**
 - **[Documentação Matplotlib](https://matplotlib.org/)**
 - **[Documentação Seaborn](https://seaborn.pydata.org/)**
 - **[Dataset Íris](https://www.kaggle.com/datasets/saurabh00007/iriscsv)**
@@ -17,6 +17,10 @@ Repositório destinado ao Estágio de Docência referente à disciplina Introdu�
 - **[Python Data Sience Handbook](http://ww12.allitebooks.org/)**
 - **[Data Science do Zero](https://altabooks.com.br/)**
 - **[Fundamentals of Data Visualization](http://oreilly.com)**
+
+### Aula 03 - Teste de Hipótese
+- **[Teste de Hipótese]()**
+
 
 ## Autora
 - Andressa Gomes Moreira - andressagomes@alu.ufc.br.
